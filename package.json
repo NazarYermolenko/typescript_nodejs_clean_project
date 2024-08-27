@@ -1,0 +1,16 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ts-node index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-ts": "^6.1.2",
+    "ts-node": "^10.9.2",
+    "tsc": "^2.0.4"
+  }
+}
